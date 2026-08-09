@@ -1,12 +1,8 @@
-
 {
-  "description": "Calorix AI calorie tracking application",
-  "repo": "https://github.com/AliImtiaz247/calorix-website",
   "owner": {
-    "username": "AliImtiaz247",
-    "email": "ali.imtiazchandio0123@gmail.com"
+    "username": "AliImtiaz247"
   },
-  "record": {
+  "records": {
     "CNAME": "calorix-website.ali-imtiazchandio0123-71e.workers.dev"
   }
 }
